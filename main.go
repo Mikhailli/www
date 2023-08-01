@@ -3,7 +3,7 @@ package main
 import (
 	"fmt"
 	"net/http"
-	"Repositories/Implementations"
+	"github.com/Mikhailli/WWW"
 	"database/sql"
 
 	_ "github.com/denisenkom/go-mssqldb"
